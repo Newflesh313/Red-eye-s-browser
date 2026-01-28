@@ -56,9 +56,9 @@ The result is a standalone browser that works exactly like Chrome, Firefox, or E
 
 ### vs Web-Based Browser (HTML/CSS/JS)
 - Runs as a native desktop application
-- ✅ Has its own window with title bar
-- ✅ Doesn't open in another browser
-- ✅ Full Chromium rendering engine
+- Has its own window with title bar
+- Doesn't open in another browser
+- Full Chromium rendering engine
 
 ### vs Terminal Browser  
 Full graphical interface
@@ -176,6 +176,7 @@ All of these can be added by extending the Python code!
 5. **Low resource usage** - Lighter than running full Chrome
 
 ---
+
 
 
 
