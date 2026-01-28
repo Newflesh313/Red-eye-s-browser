@@ -30,7 +30,7 @@ The installation takes about 2-5 minutes.
 
 Double-click: **`run-browser.bat`**
 
-The Quantum Browser will launch in its own window!
+The Red eye's Browser will launch in its own window!
 
 ## Manual Installation (Alternative)
 
