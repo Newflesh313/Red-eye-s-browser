@@ -1,30 +1,6 @@
-# Quantum Browser - Standalone Desktop Application
+# Red eye's browser - Standalone Desktop Application
 
 A **fully self-contained desktop web browser** built from scratch using Python, PyQt5, and the Chromium rendering engine. This is a real, native Windows application with its own window - no other browsers required!
-
-## Features
-
-🌐 **Full Web Rendering**
-- **Chromium engine** (same as Chrome) via QtWebEngine
-- Renders websites exactly like Chrome/Edge
-- Full JavaScript, CSS, and HTML5 support
-- Hardware acceleration and modern web standards
-
-🎨 **Modern UI**
-- Dark theme with purple/blue accents
-- Native Windows application window
-- Smooth, responsive interface
-- Professional design
-
-🔧 **Browser Features**
-- ✅ Multi-tab support
-- ✅ Full navigation (back, forward, reload, home)
-- ✅ Smart address bar (URLs and search)
-- ✅ Bookmark manager
-- ✅ Download support
-- ✅ History tracking
-- ✅ Settings panel
-- ✅ Keyboard shortcuts
 
 ⌨️ **Keyboard Shortcuts**
 - `Ctrl+T` - New Tab
@@ -79,22 +55,22 @@ The result is a standalone browser that works exactly like Chrome, Firefox, or E
 ## What Makes This Different
 
 ### vs Web-Based Browser (HTML/CSS/JS)
-- ✅ Runs as a native desktop application
+- Runs as a native desktop application
 - ✅ Has its own window with title bar
 - ✅ Doesn't open in another browser
 - ✅ Full Chromium rendering engine
 
 ### vs Terminal Browser  
-- ✅ Full graphical interface
-- ✅ Renders images, videos, CSS, JavaScript
-- ✅ Interactive web pages work perfectly
-- ✅ Looks and feels like Chrome/Edge
+Full graphical interface
+ Renders images, videos, CSS, JavaScript
+Interactive web pages work perfectly
+ Looks and feels like Chrome/Edge
 
 ### vs Chrome/Firefox/Edge
-- Similar rendering quality (uses Chromium)
-- Lighter weight and customizable
-- Built from scratch by you!
-- Can be modified and extended
+Similar rendering quality (uses Chromium)
+Lighter weight and customizable
+ Built from scratch by you
+Can be modified and extended
 
 ## File Structure
 
@@ -170,16 +146,16 @@ This creates a single `.exe` file you can run on any Windows computer without in
 - **Dependencies**: PyQt5, PyQtWebEngine
 
 ### Features Implemented:
-- ✅ Multi-tab browsing with tab management
-- ✅ URL navigation with smart search
-- ✅ History tracking
-- ✅ Bookmark management
-- ✅ Download handling
-- ✅ Keyboard shortcuts
-- ✅ Dark theme UI
-- ✅ Settings panel
-- ✅ Status bar with progress
-- ✅ Full Chromium rendering
+ Multi-tab browsing with tab management
+   URL navigation with smart search
+   History tracking
+   Bookmark management
+   Download handling
+   Keyboard shortcuts
+   Dark theme UI
+   Settings panel
+  Status bar with progress
+   Full Chromium rendering
 
 ### NOT Implemented (but can be added):
 - Browser extensions
@@ -201,4 +177,5 @@ All of these can be added by extending the Python code!
 
 ---
 
-**Quantum Browser** - A real, standalone web browser built from scratch! 🚀✨
+
+
