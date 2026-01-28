@@ -2,7 +2,7 @@
 
 A **fully self-contained desktop web browser** built from scratch using Python, PyQt5, and the Chromium rendering engine. This is a real, native Windows application with its own window - no other browsers required!
 
-⌨️ **Keyboard Shortcuts**
+ **Keyboard Shortcuts**
 - `Ctrl+T` - New Tab
 - `Ctrl+W` - Close Tab
 - `Ctrl+L` - Focus Address Bar
@@ -176,6 +176,7 @@ All of these can be added by extending the Python code!
 5. **Low resource usage** - Lighter than running full Chrome
 
 ---
+
 
 
 
